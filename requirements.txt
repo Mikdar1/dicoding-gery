@@ -3,3 +3,4 @@ pandas==2.1.1
 matplotlib==3.8.0
 seaborn==0.12.2
 babel==2.13.1
+pip>=24.2
